@@ -25,7 +25,7 @@ jobs:
       image_name: frontend
       helm_values_key: frontend
       dev_manifest_path: infra/argocd/dev/frontend.yaml
-      sonar_key: frontend
+      sonar_key: Nimesh-Capstone-Project_Parking-System-Frontend_975eb784-0cc2-4d0d-b973-1c6a14a8397b
       docker_context: .
       dockerfile_path: ./Dockerfile
       working_directory: .
